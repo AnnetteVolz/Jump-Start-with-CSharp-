@@ -1,0 +1,13 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\bin\Debug\After016.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\bin\Debug\After016.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\bin\Debug\After016.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016 - UI Locks.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\MainWindow.baml
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\MainWindow.g.cs
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\App.g.cs
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016_MarkupCompile.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016.g.resources
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016.Properties.Resources.resources
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016 - UI Locks.csproj.GenerateResource.Cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After016\obj\Debug\After016.pdb

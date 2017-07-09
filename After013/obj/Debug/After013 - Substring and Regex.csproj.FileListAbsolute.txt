@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After013\bin\Debug\After013.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After013\bin\Debug\After013.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After013\bin\Debug\After013.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After013\obj\Debug\After013.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After013\obj\Debug\After013.pdb

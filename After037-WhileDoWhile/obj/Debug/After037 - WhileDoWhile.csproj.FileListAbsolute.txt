@@ -1,0 +1,4 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-WhileDoWhile\bin\Debug\After037-WhileDoWhile.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-WhileDoWhile\bin\Debug\After037-WhileDoWhile.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-WhileDoWhile\obj\Debug\After037-WhileDoWhile.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-WhileDoWhile\obj\Debug\After037-WhileDoWhile.pdb
